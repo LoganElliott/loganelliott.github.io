@@ -1,0 +1,14 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-image: url("ThroughTheGlass.jpg");
+	text-align: center;
+	
+}
+
+h2 {
+	margin-top:40vh
+}
+
+a{
+	text-decoration: none;
+}
